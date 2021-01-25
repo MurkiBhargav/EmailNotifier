@@ -2,7 +2,7 @@
 Email Notifier is a Java Spring boot based service that periodically monitors your Gmail account for the mails from the list of senders you specify as important and sends an SMS to your mobile with the sender mail ID and subject of the mail.
 
 ## Requirements
-- Java verison 8 or higher
+- Java verison 8
 - [Clickatell SMS API account](https://www.clickatell.com/products/sms-api/)
 
 ## Installation
