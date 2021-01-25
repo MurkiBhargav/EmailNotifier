@@ -1,0 +1,1 @@
+Email Notifier is a Java Spring boot based service that periodically monitors your Gmail account for the mails from the senders you specify as important and sends an SMS to your mobile with the sender mail ID and subject of the mail.
