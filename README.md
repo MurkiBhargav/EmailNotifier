@@ -9,5 +9,6 @@ Email Notifier is a Java Spring boot based service that periodically monitors yo
 1. **Fork** this repository to save a copy of this project on your account.
 2. Clone files to your local system.
 3. Import project into an IDE that supports spring boot applications (Ex. Intellij or Spring tool suite).
-4. Build the project.
-5. Run as SpringBoot application :)
+4. Update **application.properties** with relevant details.
+5. Build the project.
+6. Run as SpringBoot application :)
